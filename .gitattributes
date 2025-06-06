@@ -1,4 +1,13 @@
 *.dart linguist-detectable=true
+*.c linguist-detectable=false
 *.cpp linguist-detectable=false
 *.h linguist-detectable=false
+*.cmake linguist-detectable=false
+*.swift linguist-detectable=false
+*.kt linguist-detectable=false
 build/ linguist-vendored
+ios/ linguist-vendored
+android/ linguist-vendored
+macos/ linguist-vendored
+windows/ linguist-vendored
+
